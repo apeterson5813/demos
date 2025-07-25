@@ -1,0 +1,28 @@
+[
+    {
+        "simulation": "REAL_TIME",
+        "resolution": 3600,
+        "module": "PowerSystems",
+        "category": "Generator",
+        "component_name": "wind-1",
+        "type": "SingleTimeSeries",
+        "name": "max_active_power",
+        "normalization_factor": 1.0,
+        "scaling_factor_multiplier_module": "PowerSystems",
+        "scaling_factor_multiplier": "get_max_active_power",
+        "data_file": "./gen/wind-1-rt.csv"
+    },
+    {
+        "simulation": "REAL_TIME",
+        "resolution": 3600,
+        "module": "PowerSystems",
+        "category": "ElectricLoad",
+        "component_name": "load-1",
+        "type": "SingleTimeSeries",
+        "name": "max_active_power",
+        "normalization_factor": 1.0,
+        "scaling_factor_multiplier_module": "PowerSystems",
+        "scaling_factor_multiplier": "get_max_active_power",
+        "data_file": "./load/load-1-rt.csv"
+    }
+]
