@@ -1,0 +1,34 @@
+# Parsing code ignores type=null.
+
+# HydroEnergyReservoir:
+# - {fuel: HYDRO, type: null} # uncomment this lines to enable hydro energy scheduling
+# - {fuel: HYDRO, type: HYDRO} # uncomment this lines to enable hydro energy scheduling
+# - {fuel: HYDRO, type: INFLOW}
+
+HydroDispatch:
+- {fuel: HYDRO, type: HY}
+#- {fuel: HYDRO, type: null} # comment this lines to enable hydro energy scheduling
+#- {fuel: HYDRO, type: HYDRO} # comment this lines to enable hydro energy scheduling
+
+# HydroPumpedStorage:
+# - {fuel: HYDRO, type: PS}
+
+RenewableDispatch:
+- {fuel: SOLAR, type: null}
+- {fuel: WIND, type: null}
+
+
+ThermalStandard:
+- {fuel: DISTILLATE_FUEL_OIL, type: null}
+- {fuel: COAL, type: null}
+- {fuel: NATURAL_GAS, type: null}
+- {fuel: MUNICIPAL_WASTE, type: null}
+- {fuel: PETROLEUM_COKE, type: null}
+- {fuel: WOOD_WASTE, type: null}
+- {fuel: NUCLEAR, type: null}
+- {fuel: OTHER_GAS, type: null}
+- {fuel: OTHER, type: null}
+
+EnergyReservoirStorage:
+- {fuel: CHEMICAL, type: BA}
+- {fuel: HYDRO, type: PS}

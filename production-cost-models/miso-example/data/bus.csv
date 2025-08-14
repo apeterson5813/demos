@@ -1,0 +1,4 @@
+number,name,area,zone,max_load,bus_type,angle,magnitude,base_voltage
+1,west,west,west,50000.0,REF,0.0,1.0,230.0
+2,eastcentral,eastcentral,eastcentral,75000.0,REF,0.0,1.0,230.0
+3,south,south,south,40000.0,SLACK,0.0,1.0,230.0

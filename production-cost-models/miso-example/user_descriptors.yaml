@@ -1,0 +1,46 @@
+bus:
+- {custom_name: number, name: number}
+- {custom_name: name, name: name}
+- {custom_name: area, name: area}
+- {custom_name: zone, name: zone}
+- {custom_name: max_load, name: max_active_power, unit_system: natural_units}
+- {custom_name: bus_type, name: bus_type}
+- {custom_name: angle, name: angle, unit: degree}
+- {custom_name: magnitude, name: angle, unit: degree}
+- {custom_name: base_voltage, name: base_voltage}
+
+branch:
+- {custom_name: name, name: name}
+- {custom_name: from, name: connection_points_from}
+- {custom_name: to, name: connection_points_to}
+- {custom_name: r, name: r, unit_system: device_base}
+- {custom_name: x, name: x, unit_system: device_base}
+- {custom_name: b, name: primary_shunt, unit_system: device_base}
+- {custom_name: rate, name: rate, unit_system: natural_units}
+- {custom_name: tap, name: tap}
+
+generator:
+- {custom_name: name, name: name}
+- {custom_name: bus, name: bus_id}
+- {custom_name: prime_mover, name: unit_type}
+- {custom_name: active_power, name: active_power, unit_system: natural_units}
+- {custom_name: reactive_power, name: reactive_power, unit_system: natural_units}
+- {custom_name: capacity, name: rating, unit_system: natural_units}
+- {custom_name: ap_min, name: active_power_limits_min, unit_system: natural_units}
+- {custom_name: ap_max, name: active_power_limits_max, unit_system: natural_units}
+- {custom_name: base_mva, name: base_mva}
+- {custom_name: fuel_price, name: fuel_price}
+- {custom_name: output_point_0, name: output_point_0, unit_system: device_base}
+- {custom_name: heat_rate_incr_1, name: heat_rate_incr_1}
+- {custom_name: min_down_time, name: min_down_time}
+- {custom_name: min_up_time, name: min_up_time}
+- {custom_name: ramp_limits, name: ramp_limits}
+
+storage:
+- {custom_name: generator_name, name: generator_name}
+- {custom_name: storage_name, name: name}
+- {custom_name: storage_volume, name: storage_capacity, unit: MWh}
+- {custom_name: max_input, name: input_active_power_limit_max, unit: MW}
+- {custom_name: max_output, name: output_active_power_limit_max, unit: MW}
+- {custom_name: capacity, name: rating, unit: MVA}
+- {custom_name: position, name: position}

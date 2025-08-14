@@ -1,0 +1,3 @@
+name,from,to,r,x,b,rate,tap
+west_eastcentral,west,eastcentral,0.00281,0.00281,0.00356,100000,0
+eastcentral_south,eastcentral,south,0.00281,0.00281,0.00356,1500,0
