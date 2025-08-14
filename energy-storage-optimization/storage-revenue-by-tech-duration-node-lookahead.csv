@@ -1,0 +1,97 @@
+duration,location,lookahead,technology,revenue
+4,minnhub,24,Vanadium Redox Flow,27641.1666030089
+4,minnhub,48,Vanadium Redox Flow,27583.28234095428
+4,minnhub,72,Vanadium Redox Flow,27566.857263502352
+4,minnhub,96,Vanadium Redox Flow,27585.307263502356
+4,minnhub,168,Vanadium Redox Flow,27475.195064463893
+4,minnhub,240,Vanadium Redox Flow,27300.440403886976
+4,minnhub,24,Iron Air,12795.809943939646
+4,minnhub,48,Iron Air,13168.871968764444
+4,minnhub,72,Iron Air,13238.891220109546
+4,minnhub,96,Iron Air,13271.078570509546
+4,minnhub,168,Iron Air,13235.266742296211
+4,minnhub,240,Iron Air,13169.286931034185
+10,minnhub,24,Vanadium Redox Flow,31654.25627470297
+10,minnhub,48,Vanadium Redox Flow,31992.521676918877
+10,minnhub,72,Vanadium Redox Flow,32091.348911513654
+10,minnhub,96,Vanadium Redox Flow,32157.37346225885
+10,minnhub,168,Vanadium Redox Flow,31950.459346270865
+10,minnhub,240,Vanadium Redox Flow,31709.59955973241
+10,minnhub,24,Iron Air,13254.446000000002
+10,minnhub,48,Iron Air,14137.26024
+10,minnhub,72,Iron Air,14446.564412000002
+10,minnhub,96,Iron Air,14717.060584000003
+10,minnhub,168,Iron Air,14910.26723466667
+10,minnhub,240,Iron Air,14898.930396266667
+24,minnhub,24,Vanadium Redox Flow,32112.749596153848
+24,minnhub,48,Vanadium Redox Flow,33048.98751923077
+24,minnhub,72,Vanadium Redox Flow,33668.29233173078
+24,minnhub,96,Vanadium Redox Flow,34161.55142211539
+24,minnhub,168,Vanadium Redox Flow,34479.07336758174
+24,minnhub,240,Vanadium Redox Flow,34288.44838213364
+24,minnhub,24,Iron Air,13255.11
+24,minnhub,48,Iron Air,14151.231499999998
+24,minnhub,72,Iron Air,14498.146
+24,minnhub,96,Iron Air,14853.730500000001
+24,minnhub,168,Iron Air,15554.260000000002
+24,minnhub,240,Iron Air,16159.47318666668
+100,minnhub,24,Vanadium Redox Flow,32112.749596153848
+100,minnhub,48,Vanadium Redox Flow,33048.98751923077
+100,minnhub,72,Vanadium Redox Flow,33670.9438846154
+100,minnhub,96,Vanadium Redox Flow,34234.424884615386
+100,minnhub,168,Vanadium Redox Flow,35329.184557692315
+100,minnhub,240,Vanadium Redox Flow,36677.87086538464
+100,minnhub,24,Iron Air,13255.11
+100,minnhub,48,Iron Air,14151.231499999998
+100,minnhub,72,Iron Air,14498.146
+100,minnhub,96,Iron Air,14853.730500000001
+100,minnhub,168,Iron Air,15554.260000000002
+100,minnhub,240,Iron Air,16208.879500000015
+4,nobles,24,Vanadium Redox Flow,110002.27631589102
+4,nobles,48,Vanadium Redox Flow,109780.21939138074
+4,nobles,72,Vanadium Redox Flow,109631.63264138074
+4,nobles,96,Vanadium Redox Flow,109512.57144907305
+4,nobles,168,Vanadium Redox Flow,108989.27107786093
+4,nobles,240,Vanadium Redox Flow,108444.41271218933
+4,nobles,24,Iron Air,89351.19226609524
+4,nobles,48,Iron Air,89206.45321942859
+4,nobles,72,Iron Air,89087.90101942858
+4,nobles,96,Iron Air,88982.50101942859
+4,nobles,168,Iron Air,88554.51701942857
+4,nobles,240,Iron Air,88117.39393942857
+10,nobles,24,Vanadium Redox Flow,117878.39103588465
+10,nobles,48,Vanadium Redox Flow,118385.75365261329
+10,nobles,72,Vanadium Redox Flow,118275.995578758
+10,nobles,96,Vanadium Redox Flow,118171.7254633734
+10,nobles,168,Vanadium Redox Flow,117610.08498260415
+10,nobles,240,Vanadium Redox Flow,116985.80723260413
+10,nobles,24,Iron Air,92193.15650000001
+10,nobles,48,Iron Air,92880.80384
+10,nobles,72,Iron Air,92903.93484000002
+10,nobles,96,Iron Air,92955.0009257143
+10,nobles,168,Iron Air,92526.43954
+10,nobles,240,Iron Air,92032.12254000003
+24,nobles,24,Vanadium Redox Flow,118305.46425961542
+24,nobles,48,Vanadium Redox Flow,119854.91123076924
+24,nobles,72,Vanadium Redox Flow,120285.57036538463
+24,nobles,96,Vanadium Redox Flow,120454.31911538463
+24,nobles,168,Vanadium Redox Flow,120382.74725274724
+24,nobles,240,Vanadium Redox Flow,119875.43480535714
+24,nobles,24,Iron Air,92193.8915
+24,nobles,48,Iron Air,92986.95425000001
+24,nobles,72,Iron Air,93207.0425
+24,nobles,96,Iron Air,93470.86150000001
+24,nobles,168,Iron Air,93706.432
+24,nobles,240,Iron Air,93729.35570000003
+100,nobles,24,Vanadium Redox Flow,118305.46425961542
+100,nobles,48,Vanadium Redox Flow,119854.91123076924
+100,nobles,72,Vanadium Redox Flow,120285.57036538463
+100,nobles,96,Vanadium Redox Flow,120454.31911538463
+100,nobles,168,Vanadium Redox Flow,120620.53227884616
+100,nobles,240,Vanadium Redox Flow,120817.03728846152
+100,nobles,24,Iron Air,92193.8915
+100,nobles,48,Iron Air,92986.95425000001
+100,nobles,72,Iron Air,93207.0425
+100,nobles,96,Iron Air,93470.86150000001
+100,nobles,168,Iron Air,93721.115
+100,nobles,240,Iron Air,94115.79900000001
